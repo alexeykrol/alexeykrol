@@ -1,9 +1,6 @@
 ## Hi, I'm Alex 👋
 
-I build AI agents, meta-frameworks, and autonomous workflows that actually get work done — not demos, not hype.
-
-Writer, system designer, and product thinker.  
-Exploring AI as a **tool of freedom**, not a replacement for thinking.
+I build AI agents, meta-frameworks, and autonomous workflows that actually get work done — not demos, not hype. Exploring AI as a **tool of freedom**, not a replacement for thinking. Writer, system designer, and product thinker.
 
 ---
 
@@ -32,6 +29,8 @@ Exploring AI as a **tool of freedom**, not a replacement for thinking.
 ## 🚀 Key Projects
 
 ## Key Projects
+
+*- Some of the projects are in private mode, so they are not accessible.
 
 - 🏗️ **[claude-code-starter](https://github.com/alexeykrol/claude-code-starter)** — Meta-framework for structured AI-assisted development with Claude Code
 - 🔀 **[devframework](https://github.com/alexeykrol/devframework)** — Local scaffold for orchestrating parallel AI tasks with git worktrees
@@ -70,8 +69,6 @@ Exploring AI as a **tool of freedom**, not a replacement for thinking.
 - 💰 **[ICO_for_people](https://github.com/alexeykrol/ICO_for_people)** — Book about making real ICO with limited budget
 - 🔗 **[CFSP](https://github.com/alexeykrol/CFSP)** — Crypto Fund Syndicate Protocol smart contracts
 - 🚀 **[cosmodrome](https://github.com/alexeykrol/cosmodrome)** — Space infrastructure development discussions
-- 👤 **[KirillTemnov](https://github.com/alexeykrol/KirillTemnov)** — Kirill Temnov's projects archive
-
 
 ---
 
